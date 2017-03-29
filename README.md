@@ -8,17 +8,24 @@ Changelogs for builds https://raw.githubusercontent.com/non1979/Slimroms_staff/m
 
 Working:
 	* wi-fi
+	
 	* mobile network and data 
+	
 	* camera and videorecorder.
+	
 	* gps 
 	
+	
 Not working 
+
 	* don't know yet
 	
 Temperately removed 
+
 	* AdvancedDisplay
 	
 Features:
+
 	* now it's clean SlimRom
 	
 FAQ:
@@ -29,6 +36,7 @@ FAQ:
 	* kernel is modified from Lineage , don't expect boeffla to run (but possible)
 	
 In plans (not yet, fast to come):
+
 	* OMS, Theme manager  Substratum
 	* boeffla smart settings for charging power
 	* OTA
@@ -39,10 +47,12 @@ In plans (not yet, fast to come):
 	* more to come
 	
 How to Install ROM
+
 - install new TWRP 3.0.2-2 https://yadi.sk/d/TipbEwTV32M6KN
 - Reboot to recovery
 - Install ROM  https://www.androidfilehost.com/?w=files&flid=166123
 - Install gapps http://opengapps.org (choose pico 7.1 for ARM)
+
 Update ROM
 - Reboot to recovery
 - Install ROM (if downloaded via OTA, saved in /OTAupdates.)
