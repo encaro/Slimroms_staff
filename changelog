@@ -1,0 +1,8 @@
+==== changelog for builds =======
+28/03/17
+initial release
+29/03/17
+add boeffla sound and charging feature via kernel94.sh
+smart settings for charging power, on default tweaks are enabled , more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3
+Snap camera (old camera2 removed)
+MTP Dirty Hack (use mtp as default after connect to usb)
