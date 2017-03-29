@@ -20,6 +20,7 @@ Not working
 Temperately removed 
 
 	* AdvancedDisplay
+	* SMS
 	
 Features:
 
