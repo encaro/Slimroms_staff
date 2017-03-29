@@ -27,7 +27,8 @@ Features:
 	
 FAQ:
 
-	* how to get root = install supersu  https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
+	* how to get root = install supersu
+	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
 	* Slimlauncher is awful = install Nova for examle 
 	* kernel is modified from Lineage , don't expect boeffla to run (but possible)
 	
