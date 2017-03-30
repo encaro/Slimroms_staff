@@ -35,7 +35,11 @@ FAQ:
 	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
 	* Slimlauncher is awful = install Nova for example 
 	* kernel is modified from Lineage , don't expect boeffla to run (but possible)
-	
+
+Bugs and fixes:
+
+	* MTP-host sometimes fails, freeze it in Titanium Backup 
+
 In plans (not yet, fast to come):
 
 	* OMS, Theme manager  Substratum
