@@ -28,6 +28,8 @@ Features:
 	* Snap Camera from Lineage
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled , more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3. (still in test)
 	* ROM updates publish 1-4 times a week on androidfilehost.com 
+	* Slim Theme (substratum mod, it's a bit buggy now, but usefull)
+
 	
 FAQ:
 
@@ -42,12 +44,9 @@ Bugs and fixes:
 
 In plans (not yet, fast to come):
 
-	* OMS, Theme manager  Substratum
-	* boeffla smart settings for charging power
 	* OTA
 	* Call recording
 	* Adaway
-	* Some staff for device tree (mtp and more)
 	* more to come
 	
 How to Install ROM
