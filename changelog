@@ -1,15 +1,16 @@
-======================== changelog for builds ========================
-=======================================================================
+======================== changelog for builds =======================================================
+=====================================================================================================
 28/03/17
 initial release
-=======================================================================
+=====================================================================================================
 30/03/17
 add boeffla sound and charging feature via kernel94.sh (test features, ported from my RR)
-smart settings for charging power, on default tweaks are enabled , more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3 (test features, ported from my RR)
+smart settings for charging power, on default tweaks are enabled , more info on 
+http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3 (test features, ported from my RR)
 Snap camera (old camera2 removed)
 MTP Dirty Hack (use mtp as default after connect to usb) (test features, ported from my RR)
 SMS/Messenger not included yet, sorry, got some strange problem, use Textra
-=======================================================================
+=====================================================================================================
 31/03/17
 SlimROM Themes (substratum mod)
-=======================================================================
+=====================================================================================================
