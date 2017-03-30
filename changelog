@@ -3,11 +3,11 @@
 28/03/17
 initial release
 =======================================================================
-29/03/17
+30/03/17
+test features, ported from CM
 add boeffla sound and charging feature via kernel94.sh
 smart settings for charging power, on default tweaks are enabled , more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3
 Snap camera (old camera2 removed)
 MTP Dirty Hack (use mtp as default after connect to usb)
-SMS/Messenger, sorry, forgot in last builds 
+SMS/Messenger not included yet, sorry, got som 
 =======================================================================
-30/03/17
