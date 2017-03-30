@@ -28,7 +28,7 @@ Features:
 	* now it's clean SlimRom
 	* Snap Camera from Lineage
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled 
-	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3. (still in test)
+	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
 	* ROM updates publish 1-4 times a week on androidfilehost.com 
 	* SlimROM Theme (Substratum mod, it's a bit buggy and laggy for now, but usefull)
 
