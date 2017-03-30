@@ -20,7 +20,7 @@ Not working
 Temperately removed 
 
 	* AdvancedDisplay
-	* SMS (use Textra SMS insteed) 
+	* SMS (use Google SMS or Textra SMS insteed) 
 	
 Features:
 
