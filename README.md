@@ -27,7 +27,7 @@ Features:
 	* now it's clean SlimRom
 	* Snap Camera from Lineage
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled , more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3. (still in test)
-	* ROM updates publish 1-7 times a week on androidfilehost.com 
+	* ROM updates publish 1-4 times a week on androidfilehost.com 
 	
 FAQ:
 
@@ -47,7 +47,6 @@ In plans (not yet, fast to come):
 	* OTA
 	* Call recording
 	* Adaway
-	* Flashlight
 	* Some staff for device tree (mtp and more)
 	* more to come
 	
