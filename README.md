@@ -28,7 +28,7 @@ Features:
 	* Snap Camera from Lineage
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled , more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3. (still in test)
 	* ROM updates publish 1-4 times a week on androidfilehost.com 
-	* Slim Theme (substratum mod, it's a bit buggy now, but usefull)
+	* SlimROM Theme (Substratum mod, it's a bit buggy now, but usefull)
 
 	
 FAQ:
@@ -37,6 +37,7 @@ FAQ:
 	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
 	* Slimlauncher is awful = install Nova for example 
 	* kernel is modified from Lineage , don't expect boeffla to run (but possible)
+	* you can use all substratum theme with SlimROM, but it's a bit buggy now  
 
 Bugs and fixes:
 
