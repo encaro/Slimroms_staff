@@ -15,10 +15,20 @@ SMS/Messenger not included yet, sorry, got some strange problem, use Google SMS 
 Slimrom Themes (substratum mod)
 Hardware key functional (rebind, backlight and so on)
 =====================================================================================================
-Next build
-Slim7: 0.18
-Version control and info for installer
+Next build: 
+apps version control and info for installer
 some improvement for download 
 ability to hide/show theme staff in menu
+"Slim7 Beta 0.18
+"### Changes and Fixes",
+"* Frameworks_opt_slim is now frameworks_slim (overlay for devices with hardware keys)",
+"* build: Unbreak verity/FEC generation",
+"* frameworks/base: QS Tile fixes, other fixes",
+"* frameworks/opt/net/wifi: fix possible NPE, WifiStateMachine: Probe neighbours only when roaming, Revert IpReachabilityMonitor handling changes",
+"* frameworks/slim: SlimRecents: Make multiwindow more robust",
+"* hardware/samsung: audio: Split BT SCO media/incall paths",
+"* vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
+=====================================================================================================
+Next build: 
 =====================================================================================================
 
