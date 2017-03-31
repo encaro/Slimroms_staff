@@ -19,6 +19,8 @@ Next build:
 apps version control and info for installer
 some improvement for download 
 ability to hide/show theme staff in menu
+Ability to disable Do not Disturb mode when calling
+add SnapdragonGallery
 + Slim7 Beta 0.18 changes
 "* Frameworks_opt_slim is now frameworks_slim (overlay for devices with hardware keys)",
 "* build: Unbreak verity/FEC generation",
