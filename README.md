@@ -42,6 +42,7 @@ FAQ:
 	* Slimlauncher is awful = install Nova for example 
 	* kernel is modified from Lineage , don't expect boeffla to run (but possible)
 	* you can use all substratum theme with SlimROM, but it's a bit buggy now / no theme can color slimlauncher
+	* in case of SMS problems - change manually SMS center  https://forum.xda-developers.com/showthread.php?t=1916507
 
 Bugs and fixes:
 
@@ -53,6 +54,7 @@ In plans (not yet, fast to come):
 	* Call recording
 	* Adaway
 	* more to come
+	
 	
 How to Install ROM
 
