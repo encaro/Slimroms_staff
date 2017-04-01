@@ -15,10 +15,9 @@ SMS/Messenger not included yet, sorry, got some strange problem, use Google SMS 
 Slimrom Themes (substratum mod)
 Hardware key functional (rebind, backlight and so on)
 =====================================================================================================
-Next build: 
+01/04/17: 
 apps version control and info for installer
 some improvement for download 
-ability to hide/show theme staff in menu
 Ability to disable Do not Disturb mode when calling
 add SnapdragonGallery
 + Slim7 Beta 0.18 changes
@@ -33,4 +32,5 @@ Revert IpReachabilityMonitor handling changes",
 =====================================================================================================
 Next build: 
 =====================================================================================================
+ability to hide/show theme staff in menu
 
