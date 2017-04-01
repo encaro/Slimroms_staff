@@ -17,6 +17,7 @@ Working:
 Not working 
 
 	* don't know yet
+	* videocalls for viber and whatapss (will be fix somewhen in LineageOS)
 	
 Temperately removed 
 
