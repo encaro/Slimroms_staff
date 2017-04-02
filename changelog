@@ -30,6 +30,8 @@ Revert IpReachabilityMonitor handling changes",
 "* vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
 =====================================================================================================
 Next build: 
+simple call recording 
+
 =====================================================================================================
 Once upon a time
 
@@ -41,5 +43,4 @@ add SnapdragonGallery
 for russian users - russian keyboard for dialer, carrier depender
 app Сamera fix (for restart services)
 contact import from sim
-call recording (simple)
 =====================================================================================================
