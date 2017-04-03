@@ -29,11 +29,14 @@ Revert IpReachabilityMonitor handling changes",
 "* hardware/samsung: audio: Split BT SCO media/incall paths",
 "* vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
 =====================================================================================================
-Next build: 
+03/04/17: 
 simple call recording 
 for russian users - russian keyboard for dialer, "call region detector" for russia and ukraine
 full OMS support and change to classic Substratum 
 =====================================================================================================
+Next build: 
+=====================================================================================================
+
 Once upon a time
 
 more battery, network carrier and time option for statusbar
