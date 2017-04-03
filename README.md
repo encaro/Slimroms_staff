@@ -32,8 +32,9 @@ Features:
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled 
 	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
 	* ROM updates publish 1-4 times a week on androidfilehost.com 
-	* SlimROM Theme (Substratum mod, it's a bit buggy and laggy for now, but usefull)
-
+	* Full OMS support, prebuild-substratum
+	* russian t9 for dialer 
+	* auto mtp-usb 
 	
 FAQ:
 
@@ -47,6 +48,7 @@ FAQ:
 Bugs and fixes:
 
 	* MTP-host sometimes fails, freeze it in Titanium Backup 
+	* for substratum give memory permition on first boot, then reboot, and all problems will disappear  
 
 In plans (not yet, fast to come):
 
