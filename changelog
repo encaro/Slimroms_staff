@@ -30,9 +30,9 @@ Revert IpReachabilityMonitor handling changes",
 "* vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
 =====================================================================================================
 03/04/17: 
-simple call recording 
+simple call recording (
 for russian users - russian keyboard for dialer, "call region detector" for russia and ukraine
-full OMS support and change to classic Substratum 
+full OMS support and change to classic Substratum (no more ugly slim theme) 
 =====================================================================================================
 Next build: 
 =====================================================================================================
