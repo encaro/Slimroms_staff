@@ -37,12 +37,12 @@ full OMS support and change to classic Substratum (no more ugly slim theme)
 05/04/17
 android-7.1.2_r2
 improve app info
-Custom Carrier Label & Carrier Label Placement
-Date and Clock position
 =====================================================================================================
 
 Once upon a time
 
+Custom Carrier Label & Carrier Label Placement = it's too hard for me, slim has strange framework structure , so need much more time
+Date and Clock position = it's too hard for me
 more battery, network carrier and time option for statusbar
 more option for lockscreen
 ability to hide/show theme staff in menu
