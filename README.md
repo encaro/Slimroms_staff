@@ -42,7 +42,8 @@ FAQ:
 	* how to get root = install supersu
 	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
 	* Slimlauncher is awful = install Nova for example 
-	* kernel is modified from Lineage , boeffla kernel is suitable and usually work, but not tested by me.  
+	* kernel is modified from Lineage , boeffla kernel is suitable and usually work, but not tested by me
+	http://kernel.boeffla.de/sgs3/boeffla-kernel-cm/cm14.0_download/Test/
 	* you can use all substratum theme with SlimROM, but it's a bit buggy now / no theme can color slimlauncher
 	* in case of SMS problems - change manually SMS center  https://forum.xda-developers.com/showthread.php?t=1916507
 	* you can only import contact from sim, export is not supported (and never willbe - samsung proprietary code )
