@@ -27,14 +27,15 @@ Temperately removed
 	
 Features:
 
-	* now it's clean SlimRom
+	* It's clean SlimRom
 	* Snap Camera from Lineage
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled 
 	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
 	* ROM updates publish 1-4 times a week on androidfilehost.com 
 	* Full OMS support, prebuild-substratum
-	* russian t9 for dialer 
+	* Russian t9 for dialer 
 	* auto mtp-usb 
+	* Call recording
 	
 FAQ:
 
@@ -54,7 +55,6 @@ Bugs and fixes:
 In plans (not yet, fast to come):
 
 	* OTA
-	* Call recording
 	* Adaway
 	* more to come
 	
