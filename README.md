@@ -65,7 +65,7 @@ How to Install ROM
 - Reboot to recovery
 - Install ROM  https://www.androidfilehost.com/?w=files&flid=166123
 - Install gapps http://opengapps.org (choose pico 7.1 for ARM)
-- Install supersu , if needed
+- Install supersu , if needed https://download.chainfire.eu/1016/SuperSU/UPDATE-SuperSU-v2.79-20161211114519.zip 
 
 Update ROM
 
