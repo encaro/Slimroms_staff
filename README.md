@@ -36,6 +36,7 @@ Features:
 	* Russian t9 for dialer 
 	* auto mtp-usb 
 	* Call recording
+	* Adaway
 	
 FAQ:
 
@@ -56,7 +57,6 @@ Bugs and fixes:
 In plans (not yet, fast to come):
 
 	* OTA
-	* Adaway
 	* more to come
 	
 	
