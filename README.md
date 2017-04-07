@@ -51,12 +51,12 @@ FAQ:
 Bugs and fixes:
 
 	* MTP-host sometimes fails, freeze it in Titanium Backup 
-	* for substratum give memory permition on first boot, then reboot, and all problems will disappear  
+	* for substratum app give memory permition on first boot, then reboot, and all problems will disappear  
 
 In plans (not yet, fast to come):
 
 	* OTA
-	* more to come
+	* Status bar improvement (date, battery, carrier), it's quite difficult in slim , so could take a lot of time  
 	
 	
 How to Install ROM
