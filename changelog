@@ -36,14 +36,8 @@ full OMS support and change to classic Substratum (no more ugly slim theme)
 =====================================================================================================
 07/04/17
 improve app info
-"Slim7 Beta 0.18 includes mostly minor fixes.",
-Frameworks_opt_slim is now frameworks_slim",
-build: Unbreak verity/FEC generation",
-frameworks/base: QS Tile fixes, other fixes",
-frameworks/opt/net/wifi: fix possible NPE, WifiStateMachine: Probe neighbours only when roaming, Revert IpReachabilityMonitor handling changes",
- frameworks/slim: SlimRecents: Make multiwindow more robust",
- hardware/samsung: audio: Split BT SCO media/incall paths",
- vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
+adaway (need supesu or another su)
+"Slim7 Beta 0.19 includes mostly minor fixes.",
 =====================================================================================================
 
 Once upon a time
