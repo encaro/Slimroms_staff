@@ -34,13 +34,20 @@ simple call recording (
 for russian users - russian keyboard for dialer, "call region detector" for russia and ukraine
 full OMS support and change to classic Substratum (no more ugly slim theme) 
 =====================================================================================================
-08/04/17
-android-7.1.2_r2
+07/04/17
 improve app info
+"Slim7 Beta 0.18 includes mostly minor fixes.",
+Frameworks_opt_slim is now frameworks_slim",
+build: Unbreak verity/FEC generation",
+frameworks/base: QS Tile fixes, other fixes",
+frameworks/opt/net/wifi: fix possible NPE, WifiStateMachine: Probe neighbours only when roaming, Revert IpReachabilityMonitor handling changes",
+ frameworks/slim: SlimRecents: Make multiwindow more robust",
+ hardware/samsung: audio: Split BT SCO media/incall paths",
+ vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
 =====================================================================================================
 
 Once upon a time
-
+android-7.1.2_r2
 Custom Carrier Label & Carrier Label Placement = it's too hard for me, slim has strange framework structure , so need much more time
 Date and Clock position = it's too hard for me
 more battery, network carrier and time option for statusbar
