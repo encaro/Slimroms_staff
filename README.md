@@ -37,10 +37,11 @@ Features:
 	* auto mtp-usb 
 	* Call recording
 	* Adaway
-	* Magisk as prebuild root (you can use supersu too) 
 
 FAQ:
 
+-	* how to get root = install supersu
+ -	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
 	* Slimlauncher is awful = install Nova for example 
 	* kernel is modified from Lineage , boeffla kernel is suitable and usually work, but not tested by me
 	http://kernel.boeffla.de/sgs3/boeffla-kernel-cm/cm14.0_download/Test/
@@ -65,9 +66,11 @@ How to Install ROM
 - Reboot to recovery
 - Install ROM  https://www.androidfilehost.com/?w=files&flid=166123
 - Install gapps http://opengapps.org (choose pico 7.1 for ARM)
+- Install supersu , if needed https://download.chainfire.eu/1016/SuperSU/UPDATE-SuperSU-v2.79-20161211114519.zip 
 
 Update ROM
 
 - Reboot to recovery
 - Install ROM (if downloaded via OTA, saved in /OTAupdates.)
+- Install supersu , if needed
 - Reboot
