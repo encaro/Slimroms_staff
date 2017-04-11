@@ -4,7 +4,7 @@ send your bugs to artamonov @dog@ gmail.com
 
 Goals: to create lightweight AOSP ROM for i9300
 
-Based on android 7.1.1 r26, Slimrom and AOSP. 
+Based on android 7.1.2r2, Slimrom and AOSP. 
 Changelogs for builds https://raw.githubusercontent.com/non1979/Slimroms_staff/master/changelog
 
 Working:
