@@ -45,7 +45,11 @@ Adaway (need supesu or another su)
 "* vendor/slim: Update for Slim7 Beta 0.19, other fixes and updates",
 =====================================================================================================
 12/04/17
+add SnapdragonGallery
 android-7.1.2_r2
+ability to hide/show theme staff in menu
+batch contact import from sim
+
 =====================================================================================================
 
 
@@ -54,9 +58,6 @@ Custom Carrier Label & Carrier Label Placement = it's too hard for me, slim has 
 Date and Clock position = it's too hard for me
 more battery, network carrier and time option for statusbar
 more option for lockscreen
-ability to hide/show theme staff in menu
 ugly ota app
-add SnapdragonGallery
 app Сamera fix (for restart services)
-contact import from sim
 =====================================================================================================
