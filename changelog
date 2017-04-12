@@ -34,7 +34,7 @@ simple call recording (
 for russian users - russian keyboard for dialer, "call region detector" for russia and ukraine
 full OMS support and change to classic Substratum (no more ugly slim theme) 
 =====================================================================================================
-09/04/17
+09/04/17 (removed due some glitches)
 Improve app info
 Adaway (need supesu or another su)
 "Slim7 Beta 0.19 includes mostly minor fixes.",
@@ -44,7 +44,7 @@ Adaway (need supesu or another su)
 "* frameworks/base: Revert Emergency call button on Swipe lock Screen, KeyguardSimPinView: don't send dummy request to get remaining pin, keyguard: Allow disabling fingerprint wake-and-unlock",
 "* vendor/slim: Update for Slim7 Beta 0.19, other fixes and updates",
 =====================================================================================================
-09/04/17
+12/04/17
 android-7.1.2_r2
 =====================================================================================================
 
