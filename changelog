@@ -40,16 +40,14 @@ full OMS support and change to classic Substratum (no more ugly slim theme)
 android-7.1.2_r2
 Improve app info
 Adaway (need supesu or another su)
-"Slim7 Beta 0.19 includes mostly minor fixes.",
-"* Implement Proximity Wake, DM's need to enable per device",
-"* Replace Gallery2 with SnapdragonGallery",
-"* frameworks/av: mediacodec: minijail: Enable exporting of policy files, camera: Ensure native handle isn't null before closing it",
-"* frameworks/base: Revert Emergency call button on Swipe lock Screen, KeyguardSimPinView: don't send dummy request to get remaining pin, keyguard: Allow disabling fingerprint wake-and-unlock",
-"* vendor/slim: Update for Slim7 Beta 0.19, other fixes and updates",
-add SnapdragonGallery
+Slim7 Beta 0.19 includes mostly minor fixes.",
+Implement Proximity Wake, DM's need to enable per device",
+Replace Gallery2 with SnapdragonGallery",
+frameworks/av: mediacodec: minijail: Enable exporting of policy files, camera: Ensure native handle isn't null before closing it",
+frameworks/base: Revert Emergency call button on Swipe lock Screen, KeyguardSimPinView: don't send dummy request to get remaining pin, keyguard: Allow disabling fingerprint wake-and-unlock",
+vendor/slim: Update for Slim7 Beta 0.19, other fixes and updates",
 ability to hide/show theme staff in menu
 batch contact import from sim
-Merge android-7.1.2_r2",
 New color picker",
 Enable aosp Night mode (blue light filder)",
 Disable full screen keyboard",
@@ -66,6 +64,7 @@ hw/ril & ril-caf: Fix crash when enabling RILC_LOG",
  apps/Snap: Upstream from LineageOS",
  system/extras: Updates to verity_verifyer (lineageOS)",
 vendor/slim: Import CM charger, minor fixes for darwin building",
+temp remove dnd when call
 =====================================================================================================
 
 
