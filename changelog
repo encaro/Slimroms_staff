@@ -34,7 +34,9 @@ simple call recording (
 for russian users - russian keyboard for dialer, "call region detector" for russia and ukraine
 full OMS support and change to classic Substratum (no more ugly slim theme) 
 =====================================================================================================
-21/04/17 
+22/04/17 
+"This week includes Android-7.1.2_r2 merge, new color picker, some fixes and more",
+"Note: Users should download latest gapps packages or Setup Wizard will fail",
 android-7.1.2_r2
 Improve app info
 Adaway (need supesu or another su)
@@ -47,7 +49,23 @@ Adaway (need supesu or another su)
 add SnapdragonGallery
 ability to hide/show theme staff in menu
 batch contact import from sim
-
+Merge android-7.1.2_r2",
+New color picker",
+Enable aosp Night mode (blue light filder)",
+Disable full screen keyboard",
+ Fix battery alignment",
+Cleanup SlimSettings for tablets",
+bionic: Update from LineageOS",
+ frameworks/av: Upstream from LineageOS",
+ frameworks/native: Upstream from LineageOS",
+frameworks/base: Updates to fingerprint, zygote",
+ hw/samsung: Upstream from LineageOS",
+hw/qcom/audio-caf/msm8916: Upstream from LineageOS",
+hw/ril & ril-caf: Fix crash when enabling RILC_LOG",
+ apps/Bluetooth: Upstream from LineageOS",
+ apps/Snap: Upstream from LineageOS",
+ system/extras: Updates to verity_verifyer (lineageOS)",
+vendor/slim: Import CM charger, minor fixes for darwin building",
 =====================================================================================================
 
 
