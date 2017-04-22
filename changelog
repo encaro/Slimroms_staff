@@ -60,11 +60,12 @@ frameworks/base: Updates to fingerprint, zygote",
  hw/samsung: Upstream from LineageOS",
 hw/qcom/audio-caf/msm8916: Upstream from LineageOS",
 hw/ril & ril-caf: Fix crash when enabling RILC_LOG",
- apps/Bluetooth: Upstream from LineageOS",
- apps/Snap: Upstream from LineageOS",
- system/extras: Updates to verity_verifyer (lineageOS)",
+apps/Bluetooth: Upstream from LineageOS",
+apps/Snap: Upstream from LineageOS",
+system/extras: Updates to verity_verifyer (lineageOS)",
 vendor/slim: Import CM charger, minor fixes for darwin building",
 temp remove dnd when call
+Slimlauncher icons
 =====================================================================================================
 
 
