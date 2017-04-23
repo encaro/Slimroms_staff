@@ -22,7 +22,6 @@ Not working
 Removed 
 
 	* AdvancedDisplay
-	* SMS (use Google SMS or Textra SMS insteed) 
 	* AOSP browser (choose yout favorite from GP)
 	
 Features:
