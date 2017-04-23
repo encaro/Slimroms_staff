@@ -1,38 +1,12 @@
 ================================= changelog for builds ==============================================
+NEXT BUILD
+Introduce the 'Turbo' apk
 =====================================================================================================
-28/03/17
-initial release
-=====================================================================================================
-30/03/17
-add boeffla sound and charging feature via kernel94.sh (test features, ported from my RR)
-smart settings for charging power, on default tweaks are enabled , more info on 
-http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3 (test features, ported from my RR)
-Snap camera (old camera2 removed)
-MTP Dirty Hack (use mtp as default after connect to usb) (test features, ported from my RR)
-SMS/Messenger not included yet, sorry, got some strange problem, use Google SMS or Textra
-=====================================================================================================
-31/03/17
-Slimrom Themes (substratum mod)
-Hardware key functional (rebind, backlight and so on)
-=====================================================================================================
-02/04/17: (build was removed from download , reason - strange theme dissappear) 
-apps version control and info for installer
-some improvement for download 
-Ability to disable Do not Disturb mode when calling
-+ Slim7 Beta 0.18 changes
-"* Frameworks_opt_slim is now frameworks_slim (overlay for devices with hardware keys)",
-"* build: Unbreak verity/FEC generation",
-"* frameworks/base: QS Tile fixes, other fixes",
-"* frameworks/opt/net/wifi: fix possible NPE, WifiStateMachine: Probe neighbours only when roaming, 
-Revert IpReachabilityMonitor handling changes",
-"* frameworks/slim: SlimRecents: Make multiwindow more robust",
-"* hardware/samsung: audio: Split BT SCO media/incall paths",
-"* vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
-=====================================================================================================
-03/04/17: 
-simple call recording (
-for russian users - russian keyboard for dialer, "call region detector" for russia and ukraine
-full OMS support and change to classic Substratum (no more ugly slim theme) 
+23/04/2017
+fixes for slimlauncher back to 7.1.1 
+tested capability with A.R.I.S.E. Sound Systems 
+add Messaging app
+fixes for gallery
 =====================================================================================================
 22/04/17 
 "This week includes Android-7.1.2_r2 merge, new color picker, some fixes and more",
@@ -67,19 +41,42 @@ vendor/slim: Import CM charger, minor fixes for darwin building",
 temp remove dnd when call
 Slimlauncher icons
 =====================================================================================================
-23/04/2017
-fixes for slimlauncher (back to 7.1.1 or fix 7.1.2)
-tested capability with A.R.I.S.E. Sound Systems 
-add Messaging app
-fixes for gallery
+03/04/17: 
+simple call recording (
+for russian users - russian keyboard for dialer, "call region detector" for russia and ukraine
+full OMS support and change to classic Substratum (no more ugly slim theme) 
 =====================================================================================================
-NEXT BUILD
-Introduce the 'Turbo' apk
-
+02/04/17: (build was removed from download , reason - strange theme dissappear) 
+apps version control and info for installer
+some improvement for download 
+Ability to disable Do not Disturb mode when calling
++ Slim7 Beta 0.18 changes
+"* Frameworks_opt_slim is now frameworks_slim (overlay for devices with hardware keys)",
+"* build: Unbreak verity/FEC generation",
+"* frameworks/base: QS Tile fixes, other fixes",
+"* frameworks/opt/net/wifi: fix possible NPE, WifiStateMachine: Probe neighbours only when roaming, 
+Revert IpReachabilityMonitor handling changes",
+"* frameworks/slim: SlimRecents: Make multiwindow more robust",
+"* hardware/samsung: audio: Split BT SCO media/incall paths",
+"* vendor/slim: Update for Slim7 Beta 0.18, APN fixes",
+=====================================================================================================
+31/03/17
+Slimrom Themes (substratum mod)
+Hardware key functional (rebind, backlight and so on)
+=====================================================================================================
+30/03/17
+add boeffla sound and charging feature via kernel94.sh (test features, ported from my RR)
+smart settings for charging power, on default tweaks are enabled , more info on 
+http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3 (test features, ported from my RR)
+Snap camera (old camera2 removed)
+MTP Dirty Hack (use mtp as default after connect to usb) (test features, ported from my RR)
+SMS/Messenger not included yet, sorry, got some strange problem, use Google SMS or Textra
+=====================================================================================================
+28/03/17
+initial release
 =====================================================================================================
 
-
-Once upon a time
+=== Once upon a time ===
 Custom Carrier Label & Carrier Label Placement = it's too hard for me, slim has strange framework structure , so need much more time
 Date and Clock position = it's too hard for me
 more battery, network carrier and time option for statusbar
