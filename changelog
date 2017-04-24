@@ -7,6 +7,7 @@ fixes for slimlauncher back to 7.1.1
 tested capability with A.R.I.S.E. Sound Systems 
 add Messaging app
 fixes for gallery
+optimized with gcc 7.0.1 for kernel 
 =====================================================================================================
 22/04/17 
 "This week includes Android-7.1.2_r2 merge, new color picker, some fixes and more",
