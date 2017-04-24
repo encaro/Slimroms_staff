@@ -30,12 +30,14 @@ Features:
 	* Snap Camera from Lineage
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled 
 	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
+	* gcc 7.0.1 for kernel
 	* ROM updates publish 1-4 times a week on androidfilehost.com 
 	* Full OMS support, prebuild-substratum
 	* Russian t9 for dialer 
 	* auto mtp-usb 
 	* Call recording
 	* Adaway
+	
 
 FAQ:
 
