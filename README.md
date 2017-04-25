@@ -37,6 +37,7 @@ Features:
 	* auto mtp-usb 
 	* Call recording
 	* Adaway
+	* OTA updates
 	
 
 FAQ:
@@ -57,7 +58,6 @@ Bugs and fixes:
 
 In plans (not yet, fast to come):
 
-	* OTA
 	* Status bar improvement (date, battery, carrier), it's quite difficult in slim , so could take a lot of time  
 	
 	
