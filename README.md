@@ -43,8 +43,8 @@ Removed
 
 FAQ:
 
--	* how to get root = install supersu
- -	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
+	* how to get root = install supersu
+	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
 	* Slimlauncher is awful = install Nova for example , only some theme can color SlimLauncher : SwiftBlack, SwiftDark and so on
 	* kernel is modified from Lineage , boeffla kernel is suitable and usually work, but not tested by me
 	http://kernel.boeffla.de/sgs3/boeffla-kernel-cm/cm14.0_download/Test/
