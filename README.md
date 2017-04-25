@@ -16,13 +16,7 @@ Working:
 	
 Not working 
 
-	* don't know yet
 	* videocalls for viber and whatapss (will be fix somewhen in LineageOS)
-	
-Removed 
-
-	* AdvancedDisplay
-	* AOSP browser (choose yout favorite from GP)
 	
 Features:
 
@@ -31,6 +25,7 @@ Features:
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled 
 	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
 	* gcc 7.0.1 for kernel
+	* some optimization: zlib , sqlite and more 
 	* ROM updates publish 1-4 times a week on androidfilehost.com 
 	* Full OMS support, prebuild-substratum
 	* Russian t9 for dialer 
@@ -39,6 +34,10 @@ Features:
 	* Adaway
 	* OTA updates
 	
+Removed 
+
+	* AdvancedDisplay
+	* AOSP browser (choose yout favorite from GP)
 
 FAQ:
 
