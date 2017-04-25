@@ -1,5 +1,8 @@
 ================================= changelog for builds ==============================================
-NEXT BUILD
+25/04/2017
+add OTA
+update Substratum
+use some optimization: zlib , sqlite and more 
 =====================================================================================================
 23/04/2017
 fixes for slimlauncher back to 7.1.1 
