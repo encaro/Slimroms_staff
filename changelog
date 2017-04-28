@@ -1,4 +1,15 @@
 ================================= changelog for builds ==============================================
+28/04/2017
+Beta 0.21 is a mostly minor update, with the usual bug fixes and device-specific updates.",
+### Changes and fixes",
+ frameworks/base: Fixes to SystemUI, Bluetooth and WIFI",
+ frameworks/opt/telephony: General fixes for CMDA devices",
+ hw/libhardware_legacy: wifi: Change USES_TI_MAC80211 to a BoardConfig flag",
+ hw/samsung: Upstream from LineageOS",
+ packages/apps/Snap: Translation update and other fixes",
+ system/bt: fix build for non-BLE after 7.1.2 merge",
+ vendor/slim: Update for Slim7 Beta 0.21",
+=====================================================================================================
 25/04/2017
 add OTA
 update Substratum
