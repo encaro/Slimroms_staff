@@ -28,7 +28,7 @@ Features:
 	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
 	* gcc 7.0.1 for kernel
 	* some optimization: zlib , sqlite and more 
-	* ROM updates publish 1-4 times a week on androidfilehost.com 
+	* ROM updates publish once-two a week on androidfilehost.com 
 	* Full OMS support, prebuild-substratum
 	* Russian t9 for dialer 
 	* auto mtp-usb 
