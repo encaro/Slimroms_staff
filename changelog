@@ -1,4 +1,16 @@
 ================================= changelog for builds ==============================================
+05/05/2017
+"Beta 0.22 brings aosp security update (android-7.1.2_r8) and misc fixes and optimizations",
+May security update (android-7.1.2_r8)",
+Fix dialer crash when entering calling accounts (Dialer and codeaurora/telephony",
+fw/av: Fix policy for ffmpeg",
+ fw/base: Various fixes from Xiaomi (LineageOS)",
+hw/libhardware_legacy: wifi: Add firmware loader support for the non-LKM cases",
+ hw/samsung: Translations updates",
+libcore: Fix 7.1.2 merge conflict",
+apps/Bluetooth: Revert handle opening incoming apk files and update translations",
+vendor/slim: Cleanup repo, removing obsolete calls and overlays",
+=====================================================================================================
 28/04/2017
 Beta 0.21 is a mostly minor update, with the usual bug fixes and device-specific updates.",
 ### Changes and fixes",
