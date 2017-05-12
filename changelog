@@ -1,4 +1,10 @@
 ================================= changelog for builds ==============================================
+12/05/2017
+add jelly browser
+fw/base: Allow override battery capacity using props, Telecom: Fix order of arguments when creating details object",
+samsung: Allow power_hint_low_power to disable power save mode",
+Update translations for device settings",
+=====================================================================================================
 05/05/2017
 "Beta 0.22 brings aosp security update (android-7.1.2_r8) and misc fixes and optimizations",
 May security update (android-7.1.2_r8)",
