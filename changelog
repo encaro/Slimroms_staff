@@ -1,4 +1,18 @@
 ================================= changelog for builds ==============================================
+Slim7 BETA 0.24
+do BACKUPS, WIPES are very recommended
+20/05/2017
+fw/av: Revert AudioSessionInfo API [Bug #164](https://bugs.slimroms.org/issues/164)",
+fw/base: Translation update, Add support for pause & resume Download manager",
+fw/native: sensorservice: Fix orientation sensor for HAL's missing rotation vector sensor",
+apps/Dialer: Translation update",
+apps/Settings: Translation update",
+apps/SlimLauncher: Translation update",
+apps/Snap: Fix crash switching from back to front cam in video mode",
+providers/DownloadProvider: Display download speed, Add support for pause and resume",
+services/Telephony: Translation update",
+system/bt: Do not include the trailing NULL from C-String in the SDP service name",
+=====================================================================================================
 12/05/2017
 add jelly browser
 fw/base: Allow override battery capacity using props, Telecom: Fix order of arguments when creating details object",
