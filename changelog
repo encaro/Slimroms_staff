@@ -1,7 +1,11 @@
 ================================= changelog for builds ==============================================
 Slim7 BETA 0.24
-do BACKUPS, WIPES are very recommended
-20/05/2017
+22/05/2017
+
+do BACKUPS, WIPES are recommended
+no OTA for this realise because backups are needed 
+
+move adaway to settings/security/adaway with many hosts 
 fw/av: Revert AudioSessionInfo API [Bug #164](https://bugs.slimroms.org/issues/164)",
 fw/base: Translation update, Add support for pause & resume Download manager",
 fw/native: sensorservice: Fix orientation sensor for HAL's missing rotation vector sensor",
