@@ -5,6 +5,18 @@ removed OTA
 tried to be very closed to original Slim
 replaced substratum by Slimrom Themer. 
 temp went back to old cm14 kernel for a week or more
+
+SlimDoze: Add handwave, pocket mode and tilt gesture (device dependant)",
+Hide sensitive phone numbers from dialers - from LineageOS",
+fw/slim: Fix screen off gesture action",
+hw/samsung: Upstream from LineageOS",
+stagefright-plugins: FFmpegExtractor: Don't use our extractor when we agree with StageFright",
+apps/Snap: Upstream from LineageOS",
+vendor/slim: Show full alarm info, Use aosp wallpaper croper, Enable Wi-Fi by default (fixes setupwizard fc)",
+apps/SnapdragonGallery: Dark theme",
+system/sepolicy: Allow recovery to alter / on userdebug/eng builds",
+vendor/slim: Update lunch list, Extract_utils: fix extracting XML files containing binary characters, Fix text relocation warnings (keep default REL for PLATFORM_VERSION_CODENAME)",
+  
 =====================================================================================================
 Slim7 BETA 0.24
 21/05/2017
