@@ -1,4 +1,11 @@
 ================================= changelog for builds ==============================================
+Slim7 BETA 0.26
+05/06/2017
+removed OTA
+tried to be very closed to original Slim
+replaced substratum by Slimrom Themer. 
+temp went back to old cm14 kernel for a week or more
+=====================================================================================================
 Slim7 BETA 0.24
 21/05/2017
 
