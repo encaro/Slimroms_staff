@@ -1,4 +1,21 @@
 ================================= changelog for builds ==============================================
+Slim7 BETA 0.28
+SlimDoze triggers not following Ambient Display",
+Expose more resources for OMS",
+fw/base: Minor fixes and optimizations",
+Snap: Simulate back button when menu button is pressed, Add orientation correction for landscape devices, Sign with platform keys",
+system/bt: Disable AVRCP 1.6",
+Add sensitive phone # for Israel",
+
+Slim7 BETA 0.27
+Merge June security update (android-7.1.2_r17)",
+Translation updates",
+Updates to battery stats counter reset",
+hw/samsung: Upstream from LineageOS",
+ system/core: Updates to sched_policy",
+Updates to sensitive phone numbers",
+
+=====================================================================================================
 Slim7 BETA 0.26
 05/06/2017
 removed OTA
