@@ -1,4 +1,21 @@
 ================================= changelog for builds ==============================================
+"Slim7 STABLE 1.0",
+"Friday 30 June 2017",
+"This week brings our first stable build for nougat. This means minor updates and fixes for this weekly.",
+"We added  a correct signiture to our zip and apk's as such you will need clean wipe to flash this and any new builds",
+"### Changes and fixes",
+"* Update translations",
+"* Fix brightness bar not always registering touches",
+"* ffmpeg: Rebase to latest LineageOS",
+"* stagefright-plugins: Revert 'FFmpegExtractor: Don't use our extractor when we agree with StageFright'. Add support for opus files",
+"* frameworks/base: Binder: be forceful about a forceful exit. Add support for Opus format.",
+"* contactsprovider: Fix merge error, Should fix Visual Voice Mail",
+"* mediaprovider: Revert 'MediaProvider: Fix where condition of delete queries and Fix check for existence of parent'. Fix SQLiteDiskIOException. Fix force closed when plug out the SD card while music is playing. Fix thumbnails of new edit photos display wrongly in Documents. Fix failure in android.provider.cts.MediaStore_FilesTest",
+"* Add sensitive numbers for Ukrain, Greece, Taiwanese.",
+"* Fix sensitive number for Czech Republic",
+"* Add apn for Japan Umobile APNs",
+went back for led, doze , notification for stable branch
+=====================================================================================================
 "Slim7 BETA 0.29",
 "Friday 23 June 2017",
  fw/base: Upstream fixes from master, Add null check for action bar",
@@ -10,7 +27,7 @@ hw/samsung: Add BLN support, Fix fast blinking notification LEDs, exynos: multim
  system/core: fix healthd include paths, Init: Run restorecon_recursive asynchronously",
  Update sensitive phone # for BR, PT, GB and FR. Add Virgin Media Ireland to APN's",
 some port for led/doze and gesture - not fully working yet.
-
+=====================================================================================================
 Slim7 BETA 0.28
 SlimDoze triggers not following Ambient Display",
 Expose more resources for OMS",
@@ -18,7 +35,7 @@ fw/base: Minor fixes and optimizations",
 Snap: Simulate back button when menu button is pressed, Add orientation correction for landscape devices, Sign with platform keys",
 system/bt: Disable AVRCP 1.6",
 Add sensitive phone # for Israel",
-
+=====================================================================================================
 Slim7 BETA 0.27
 Back to Substratum
 Add Phonograph
@@ -28,7 +45,6 @@ Updates to battery stats counter reset",
 hw/samsung: Upstream from LineageOS",
  system/core: Updates to sched_policy",
 Updates to sensitive phone numbers",
-
 =====================================================================================================
 Slim7 BETA 0.26
 05/06/2017
