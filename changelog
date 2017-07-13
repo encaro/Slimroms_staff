@@ -1,4 +1,32 @@
 ================================= changelog for builds ==============================================
+"title": "Slim7 Weekly 1.2",
+"date": "Friday 14 July 2017",
+Merge android-7.1.2_r23",
+Fix default notification, alarm and ringtones Bug: #318",
+fw/base: Reduce the setTransactions. SystemUI: Fix Notification Background Color Issue",
+hw/qcom/audio: hal: add missing incall recording usecases and check",
+hw/samsung: Upstream from LineageOS",
+apps/Snap: Add overlay for restarting camera preview for additional cameras",
+system/core: fs_mgr healthd: check console-ramoops-0. init.rc: setup console-ramoops-0. logcat: Add missing newline to read failure",
+Slim7: Fix Default notification, alarm and ringtone sounds
+Fixes Whatsapp video calls
+=====================================================================================================
+"Slim7 Weekly 1.1",
+date": "Friday 7 July 2017",
+MusicFX: Updates and changes from CAF, Omni, DU and AospExtended",
+Add Ambient Display QS tile",
+Sensitive numbers: Update MCC codes",
+stagefright-plugins: Fix 'supported' typo in log",
+fw/av: CameraService: fix cameraId type of onDeviceStatusChanged",
+hw/qcom/audio-caf/msm8916: Merge tag 'LA.UM.5.5.r1-04900-8x96.0' into HEAD",
+hw/qcom/bt-caf: Merge tag 'LA.UM.5.5.r1-04900-8x96.0' into HEAD",
+hw/qcom/fm: Update translations",
+hw/qcom/keymaster: Add msm8996 and msm8998 into support list",
+apps/Snap: Update translations",
+services/Telecomm: SensitivePhoneNumbers: Handle lists of MCC codes",
+Update APN's for China Telecom Macau",
+misc build changes",
+=====================================================================================================
 "Slim7 STABLE 1.0",
 "Friday 30 June 2017",
 "This week brings our first stable build for nougat. This means minor updates and fixes for this weekly.",
