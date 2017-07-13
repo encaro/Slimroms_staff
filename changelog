@@ -10,6 +10,7 @@ apps/Snap: Add overlay for restarting camera preview for additional cameras",
 system/core: fs_mgr healthd: check console-ramoops-0. init.rc: setup console-ramoops-0. logcat: Add missing newline to read failure",
 Slim7: Fix Default notification, alarm and ringtone sounds
 Fixes Whatsapp video calls
+Fix mtp_dirty_hack
 =====================================================================================================
 "Slim7 Weekly 1.1",
 date": "Friday 7 July 2017",
