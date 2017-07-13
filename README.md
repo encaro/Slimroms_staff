@@ -6,7 +6,7 @@ send your bugs to artamonov @  gmail.com
 
 Goals: to create lightweight AOSP ROM for i9300
 
-Based on android 7.1.2_r17, Slimrom and AOSP. 
+Based on android 7.1.2_r23, Slimrom and AOSP. 
 Changelogs for builds https://raw.githubusercontent.com/non1979/Slimroms_staff/master/changelog
 
 Working:
@@ -16,10 +16,7 @@ Working:
 	* camera and videorecorder.
 	* gps 
 	
-Not working 
 
-	* videocalls for viber and whatapss (will be fix somewhen in LineageOS)
-	
 Features:
 
 	* It's clean SlimRom
