@@ -1,4 +1,18 @@
 ================================= changelog for builds ==============================================
+Slim7 Weekly 1.4
+Friday 28 July 2017
+fw/base: PowerProfile: allow overriding default power profile
+hw/qcom/fm: Update colors and translations (LineageOS)
+apps/Bluetooth: Translation updates (LineageOS)
+apps/Settings: MSIM: Fix user set DDS sub in hotswap cases.
+apps/Snap: Translation updates (LineageOS)
+resources/devicesettings: Translations update (LineageOS)
+vendor/qcom/opensource/dataservice : datatop: Fix out_dir array empty content verification. datatop: Remove unused variables from datatop_ip_table_poll.c
+vendor/slim: Updates to APNs, sensitive phone numbers, offline charging graphics and build configs
+update webview, Phonograph, Jelly
+some more ports for kernel from boeffla
+wakelock for flashlight
+=====================================================================================================
 Slim7 Weekly 1.3
 Friday 21 July 2017
 This weeks brings some minor fixes and updates
@@ -10,7 +24,6 @@ hw/qcom/fm: Upstream from LineageOS
 hw/samsung: Updates to power and secril (upstream from LineageOS)
 apps/Snap: Upstream from LineageOS
 move kernel to linaro-gcc7.0
-add some optimization for msqlite
 =====================================================================================================
 "title": "Slim7 Weekly 1.2",
 "date": "Friday 14 July 2017",
