@@ -23,7 +23,7 @@ Features:
 	* Snap Camera from Lineage
 	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled 
 	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
-	* gcc 7.0.1 for kernel
+	* arm-linaro gcc 7.1.1:20170720  for kernel
 	* ROM updates publish once a week on androidfilehost.com 
 	* Full OMS support, prebuild-substratum
 	* Russian t9 for dialer 
@@ -31,8 +31,9 @@ Features:
 	* Call recording
 	* Adaway
 	* OTA updates
+	* Phonograph for music
 	* Jelly (lineage browser)
-	
+		
 Removed 
 
 	* AdvancedDisplay
