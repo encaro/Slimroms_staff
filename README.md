@@ -51,11 +51,6 @@ FAQ:
 Bugs and fixes:
 
 	* MTP-host sometimes fails, freeze it in Titanium Backup 
-	* for substratum app give memory permition on first boot, then reboot, and all problems will disappear  
-
-In plans (not yet, fast to come):
-
-	* Status bar improvement (date, battery, carrier), it's quite difficult in slim , so could take a lot of time  
 	
 	
 How to Install ROM
@@ -72,3 +67,9 @@ Update ROM
 - Install ROM (if downloaded via OTA, saved in /OTAupdates.)
 - Install supersu , if needed
 - Reboot
+
+Reccomendation 
+- use microG instead of GAPPS https://www.dropbox.com/s/ikgn8o8qph5ehqs/microG-Aroma-Installer%2B%2813.06.17%29.zip?dl=0
+https://forum.xda-developers.com/android/apps-games/app-microg-gmscore-floss-play-services-t3217616
+http://4pda.ru/forum/index.php?showtopic=724118&st=720#entry53394487
+(use  Lucky Patcher by ChelpuS or Uret Patcher by Jasi2169 to activate android patches )
