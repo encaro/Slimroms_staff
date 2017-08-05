@@ -1,4 +1,14 @@
 ================================= changelog for builds ==============================================
+=====================================================================================================
+Slim7 Weekly 1.5
+Friday 3 August 2017
+hw/samsung: Updates to power, secril and macloaders
+apps/Dialer: Fix compilation warnings
+apps/Snap: Fix low resolution front camera icon
+Updates to sensitive phone numbers
+updates to jelly
+arm-linaro-linux-androideabi 7.1.1: 20170805 for kernel
+=====================================================================================================
 Slim7 Weekly 1.4
 Friday 28 July 2017
 fw/base: PowerProfile: allow overriding default power profile
