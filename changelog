@@ -1,4 +1,10 @@
 ================================= changelog for builds ==============================================
+Slim7 Weekly 1.7
+Friday 19 August 2017
+hw/samsung: Updates to power, secril and macloaders
+fully import boeffla config with all governors (you can change some of features by Kernel Adiutor)
+
+=====================================================================================================
 Slim7 Weekly 1.6
 Friday 11 August 2017
 This week includes AOSP August security update, with some adittional rom and device fixes
