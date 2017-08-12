@@ -1,4 +1,16 @@
 ================================= changelog for builds ==============================================
+Slim7 Weekly 1.6
+Friday 11 August 2017
+This week includes AOSP August security update, with some adittional rom and device fixes
+Merge android-7.1.2_r29
+hw/qcom/fm: Upstream LineageOS
+hw/samsung: Upstreamfrom LineageOS
+Add WOM internet/mms APN
+fixes for incall volume (!!!)
+Launcher3 replace old ugly Slimlauncher
+official Adaway, it's better
+speed UI things up to the max
+update Substratum, Phonograph and Jelly
 =====================================================================================================
 Slim7 Weekly 1.5
 Friday 3 August 2017
