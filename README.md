@@ -6,7 +6,7 @@ send your bugs to artamonov @  gmail.com
 
 Goals: to create lightweight AOSP ROM for i9300
 
-Based on android 7.1.2_r23, Slimrom and AOSP. 
+Based on android 7.1.2_r29, Slimrom and AOSP. 
 Changelogs for builds https://raw.githubusercontent.com/non1979/Slimroms_staff/master/changelog
 
 Working:
@@ -71,4 +71,3 @@ Update ROM
 
 Reccomendation 
 - use microG instead of GAPPS https://forum.xda-developers.com/android/development/microg-unofficial-installer-t3432360
-(use  Lucky Patcher by ChelpuS or Uret Patcher by Jasi2169 to activate android patches )
