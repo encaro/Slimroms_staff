@@ -21,8 +21,7 @@ Features:
 
 	* It's clean SlimRom
 	* Snap Camera from Lineage
-	* 94kernel   smart settings for charging power and sound (ported from boeffla), on default tweaks are enabled 
-	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3  (still in test)
+	* 94kernel   smart settings for charging power and sound and some CPU governor (ported from boeffla) 
 	* arm-linaro gcc 7.1.1:20170720  for kernel
 	* ROM updates publish once a week on androidfilehost.com 
 	* Full OMS support, prebuild-substratum
@@ -49,7 +48,7 @@ FAQ:
 	* in case of SMS problems - change manually SMS center  https://forum.xda-developers.com/showthread.php?t=1916507
 	* you can only import contact from sim, export is not supported (and never willbe - samsung proprietary code )
 	A many things from boeffla kernel is ported,  you should use Kernel Aduitor (KA) to manage it.
-	- many goverment for CPU policy, for battery frendly use "zzmoove / 1100Mhz as max CPU / -50mV CPU Voltage"
+	- many governor for CPU policy, for battery frendly use "zzmoove / 1100Mhz as max CPU / -50mV CPU Voltage"
 	- smart settings for charging power and sound === in KA in init.d section edit 94kernel as you want, then ran it in KA 
 	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3 
 
