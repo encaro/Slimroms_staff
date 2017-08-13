@@ -44,10 +44,15 @@ FAQ:
 	https://download.chainfire.eu/1021/SuperSU/SR3-SuperSU-v2.79-SR3-20170114223742.zip  
 	* Slimlauncher is awful = install Nova for example , only some theme can color SlimLauncher : SwiftBlack, SwiftDark and so on
 	* kernel is modified from Lineage , boeffla kernel is suitable 
-	* http://kernel.boeffla.de/sgs3/boeffla-kernel-cm/cm14.0_download/Stable/
+	* http://kernel.boeffla.de/sgs3/boeffla-kernel-cm/cm14.0_download/
 	* you can use all substratum theme with SlimROM
 	* in case of SMS problems - change manually SMS center  https://forum.xda-developers.com/showthread.php?t=1916507
 	* you can only import contact from sim, export is not supported (and never willbe - samsung proprietary code )
+	A many things from boeffla kernel is ported,  you should use Kernel Aduitor (KA) to manage it.
+	- many goverment for CPU policy, for battery frendly use "zzmoove / 1100Mhz as max CPU / -50mV CPU Voltage"
+	- smart settings for charging power and sound === in KA in init.d section edit 94kernel as you want, then ran it in KA 
+	 more info on http://forum.xda-developers.com/showpost.php?p=64651867&postcount=3 
+
 
 Bugs and fixes:
 
