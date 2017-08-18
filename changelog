@@ -1,14 +1,22 @@
 ================================= changelog for builds ==============================================
 NEXT BUILD
 =====================================================================================================
+LAST BUILD
 Slim7 Weekly 1.7
-Friday 19 August 2017
+Friday 18 August 2017
+frameworks/av: Camera: Add null checks on mdevice to avoid crash
+frameworks/base: SEEMP: Add auth framework for outgoing sms messages. Audioservice: Set BT_SCO status. Camera: ignore torch status updates for aux or composite camra. Camera2: Fix error callback if buffer lost.
+frameworks/native: SF: Improve hwrotation handling. Native: Increase art heap limit to 192MB for 1024MB ram devices
+hardware/broadcom/wlan: Merge tag android-7.1.2_r28
+hardware/qcom/bt-caf: libbt-qcom: Allow reading BT address from property. Revert 'Merge tag 'LA.UM.5.5.r1-04900-8x96.0' into HEAD'
+hardware/samsung: wifiloader: load kernel module if present
+apps/Settings: Revert 'Settings[Wifi]: fix the input invalid length for WEP encryption.'
+apps/Snap: Add missing null check on isCamera2Supported
+Updates to Correios Celular (BR) APN
+Updates to build environment
 hw/samsung: Updates to power, secril and macloaders
 some boeffla tweaks by default
 remove sqlite optimization for stability
-
-=====================================================================================================
-LAST BUILD
 =====================================================================================================
 Slim7 Weekly 1.6
 Friday 11 August 2017
