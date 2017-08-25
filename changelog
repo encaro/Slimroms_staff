@@ -3,7 +3,14 @@ FINAL BUILD FOR NOUGAT (7.0)
 
 Slim7 Weekly 1.8
 Friday 25 August 2017
-
+fw/base: Audioservice set BT_SCO status. Camera: Ignore torch status update for aux or composite camera. Camera2: Fix error callback if buffer is lost"
+hw/qcom/bt-caf: Revert `Merge tag 'LA.UM.5.5.r1-04900-8x96.0' into HEAD`",
+apps/Bluetooth: Directly inform Audio HAL regarding SCO state change",
+apps/Dialer: IMS-VT: Transmit static image when multitasking",
+ apps/Snap: Automatic translation import",
+ codeaurora/telephony: IMS-VT: Add config that controls visibility of static Image UI",
+vendor/slim: Updates to Tmo US APN, other misc build environment changes",
+updates for prebuilt apps
 arm-linaro-linux-androideabi 7.2.1: 20170825
 
 =====================================================================================================
