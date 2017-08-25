@@ -1,7 +1,12 @@
 ================================= changelog for builds ==============================================
-NEXT BUILD
+FINAL BUILD FOR NOUGAT (7.0)
+
+Slim7 Weekly 1.8
+Friday 25 August 2017
+
+arm-linaro-linux-androideabi 7.2.1: 20170825
+
 =====================================================================================================
-LAST BUILD
 Slim7 Weekly 1.7
 Friday 18 August 2017
 frameworks/av: Camera: Add null checks on mdevice to avoid crash
