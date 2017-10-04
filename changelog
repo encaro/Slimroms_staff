@@ -1,5 +1,18 @@
 ================================= changelog for builds ==============================================
 Security build for Nougat.
+Slim7 Weekly 1.12
+04 October 2017
+
+all security patches from Google October 2017 update.
+Automatic translation import 
+camera: Only turn torch on/off for one back-facing camera
+ril: Allow targets to disable Clang
+Jelly: Reuse DateFormat instance in HistoryAdapter.
+substratum eight hundred fifty four | 854 | 29.09.2017
+audio: Fix WBS sample rate usage
+
+=====================================================================================================
+Security build for Nougat.
 Slim7 Weekly 1.10
 Saturday  16 September 2017
 
