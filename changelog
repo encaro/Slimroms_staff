@@ -6,7 +6,7 @@ Slim7 Weekly 1.12
 Revert "DO NOT MERGE Disable overlays while installer is resumed" 
 net: wireless: bcmdhd: fix buffer overrun in wlfc reordering "added boundary check not to override allocated buffer" Fixes CVE-2017-0571.
 smdk4412: Add support for TWRP build
-removed omni Phonograph, added newest build Phonograph 08/10/2017 (build by me , full edition close to Pro)
+removed omni Phonograph, added newest build Phonograph 08/10/2017 (build by me)
 webview_packages: prefer the more powerful webview packages
 extract_utils: implement LOCAL_MODULE_RELATIVE_PATH
 extract_files: Adjust deodex path and tmpdir
