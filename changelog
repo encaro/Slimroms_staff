@@ -1,8 +1,15 @@
 ================================= changelog for builds ==============================================
+Security build for Nougat.
+Slim7: 1.15
+21 October 2017
+More oct2017asb security patches
+wpa_supplicant_8 and other fixes for  KRACK WPA2 vulnerability patches
+kernel - mac80211: accept key reinstall without changing anything and wifi/bt fixes
+memory leak fixes for frameworks_av
+=====================================================================================================
 Fix build for Nougat.
 Slim7 Weekly 1.12
 08 October 2017
-
 Revert "DO NOT MERGE Disable overlays while installer is resumed" 
 net: wireless: bcmdhd: fix buffer overrun in wlfc reordering "added boundary check not to override allocated buffer" Fixes CVE-2017-0571.
 smdk4412: Add support for TWRP build
@@ -10,12 +17,10 @@ removed omni Phonograph, added newest build Phonograph 08/10/2017 (build by me)
 webview_packages: prefer the more powerful webview packages
 extract_utils: implement LOCAL_MODULE_RELATIVE_PATH
 extract_files: Adjust deodex path and tmpdir
-
 =====================================================================================================
 Security build for Nougat.
 Slim7 Weekly 1.12
 04 October 2017
-
 all security patches from Google October 2017 update.
 Automatic translation import 
 camera: Only turn torch on/off for one back-facing camera
@@ -27,7 +32,6 @@ audio: Fix WBS sample rate usage
 Security build for Nougat.
 Slim7 Weekly 1.10
 Saturday  16 September 2017
-
 all security patches from Google September 2017 update.
 arm-linaro-linux-androideabi 7.2.1: 20170916 for kernel
 clang 5.0 / gcc 6.3 omnimizations and fixes. 
@@ -41,9 +45,7 @@ Additional translations: fw_base fw_slim Settings SlimLauncher Dialer Telephony
 fw/base: Use systemClock.elapsedRealtime() to calculate TTFF
 fw/base: Keyguard: Change fingerprint listening behavior
 apps/CellBroadcastReceiver:General updates and fixes from LineageOS
-
 =====================================================================================================
-
 FINAL BUILD FOR NOUGAT (7.0)
 Slim7 Weekly 1.8
 Friday 25 August 2017
