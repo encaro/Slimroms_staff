@@ -1,5 +1,17 @@
 ================================= changelog for builds ==============================================
 Security build for Nougat.
+Slim7: 1.16
+19 November 2017
+nov2017asb security patches
+dm crypt fixes for kernel
+android 7.1.2_r33
+enable AutoPowerModes for all
+renew gms update services
+add CellBroadcastReceiver
+rebuild Phonograph
+substratum nine hundred fourteen | 914 | 08.11.2017
+=====================================================================================================
+Security build for Nougat.
 Slim7: 1.15
 21 October 2017
 More oct2017asb security patches
