@@ -33,10 +33,7 @@ Features:
 	* Phonograph for music
 	* Jelly (lineage browser)
 		
-Removed 
 
-	* AdvancedDisplay
-	
 FAQ:
 
 	* how to get root = install supersu
