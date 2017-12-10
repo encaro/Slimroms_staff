@@ -1,7 +1,5 @@
 ========== SLIMROM for SAMSUNG I9300 ================
 
-=============== IT'S VERY ALPHA =====================
-
 send your bugs to artamonov @  gmail.com
 
 Goals: to create lightweight AOSP ROM for i9300
