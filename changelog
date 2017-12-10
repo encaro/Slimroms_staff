@@ -5,6 +5,8 @@ Slim7: 1.17
 dec2017asb security patches
 some kernel improvement
 android 7.1.2_r36
+Update webviews to Chromium 63.0.3239.83
+some samsung hardware and ril updates
 =====================================================================================================
 Security build for Nougat.
 Slim7: 1.16
