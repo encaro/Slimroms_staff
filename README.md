@@ -30,6 +30,8 @@ Features:
 	* OTA updates
 	* Phonograph for music
 	* Jelly (lineage browser)
+	* some kernel improvement, thanks to A$teroid and Lord boeffla
+
 		
 
 FAQ:
